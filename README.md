@@ -1,4 +1,4 @@
-<h1>SendEmailv3</h1>
+<h1>WithJava</h1>
 
 Put 'mailtest.jar' into your CLASSPATH.  'mailtest.jar' contains the classes 'SendMail.class' and 'SendMail2.class', which are the supporting classes for the 'mailtest' and 'mailtest2' Panther screens, respectively.
 
