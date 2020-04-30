@@ -18,8 +18,10 @@ Add activation-1.1.jar only if you are using OpenJDK and point it to CLASSPATH.
 
 Note that the subdirectory, javamail-1.4.5, contains a subset of Oracle's JavaMail 1.4.5.  Only the redistributable file, 'mail.jar' is provided herein.  Also, be aware of the restrictions on its use as described in the files, LICENSE.txt and distributionREADME.txt, which are also provided in the javamail-1.4.5 subdirectory.  You may download a full implementation of JavaMail from Oracle at 'http://www.oracle.com/technetwork/java/javamail/index.html'.
 
-Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb)
+Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb "Named link title") 
 
-[Click Here](https://www.prolifics.com/panther-trial-license-request) for a 45 day license.
+[Click Here](https://prolifics.com/panther-trial-license-request/ "Named link title") for a 45-day license.
 
-How to setup a Panther Servlet Web Application? [Click Here](https://github.com/ProlificsPanther/PantherWeb/releases)
+How to set up a Panther Servlet Web Application? [Click Here](https://github.com/ProlificsPanther/PantherWeb/releases "Named link title")
+
+Read our Documentation [here](https://docs.prolifics.com)
